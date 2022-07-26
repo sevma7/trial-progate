@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: "Lucida Grande";
+    font-family: "Noto Sans";
   }
   
   a {
@@ -15,7 +15,7 @@ body {
   
   .top-wrapper {
     padding: 180px 0 100px 0;
-    background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+    background-image: url(https://www.clker.com/cliparts/L/e/S/6/F/V/carbon-fiber-wallpaper-x-hi.png);
     background-size: cover;
     color: white;
     text-align: center;
@@ -147,4 +147,6 @@ body {
     font-size: 15px;
     color: #b3aeb5;
   }
+
+ 
   
